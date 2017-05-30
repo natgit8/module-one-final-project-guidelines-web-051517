@@ -1,0 +1,17 @@
+Movie.create(title: "Wargames")
+Movie.create(title: "Harry Potter")
+Movie.create(title: "Star Wars")
+Movie.create(title: "Muppets Most Wanted")
+Movie.create(title: "Zero Dark Thirty")
+
+Actor.create(name: "Matthew Broderick")
+Actor.create(name: "Daniel Radcliffe")
+Actor.create(name: "Carrie Fisher")
+Actor.create(name: "Kermit")
+Actor.create(name: "Chris Pratt")
+
+Character.create(name: "David Lightman")
+Character.create(name: "Harry Potter")
+Character.create(name: "Princess Leia")
+Character.create(name: "Kermit the Frog")
+Character.create(name: "Hot Guy")
