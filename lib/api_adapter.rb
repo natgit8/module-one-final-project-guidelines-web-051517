@@ -3,7 +3,7 @@ require 'json'
 require 'pry'
 
 class ApiAdapter
-  
+
   def get_venue_hash
     all_venues = RestClient.get("https://data.cityofnewyork.us/resource/2pc8-n4xe.json")
     venue_hash = JSON.parse(all_venues)

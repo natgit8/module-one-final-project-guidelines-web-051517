@@ -31,5 +31,5 @@ class CommandLine
     api_adapter.get_company_info(user_input)
     end
   end
-  
+
 end
