@@ -6,4 +6,4 @@ require_relative "../lib/api_adapter.rb"
 
 
 CommandLine.greet
-CommandLine.find_url_by_name
+CommandLine.get_user_input
