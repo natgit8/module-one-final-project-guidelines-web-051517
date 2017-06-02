@@ -32,3 +32,5 @@ EntertainmentFinder is a simple command line database application that parses AP
 
 ![Watch the video](http://g.recordit.co/m8m2dP4R8W.gif)
 
+
+http://recordit.co/m8m2dP4R8W
