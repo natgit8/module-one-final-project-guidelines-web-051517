@@ -24,6 +24,7 @@ EntertainmentFinder is a simple command line database application that parses AP
     - bin/run.rb
     - config/environment.rb
     - db/migrate files
+    - lib files
     ```
 4. Terminal will output a greeting when the app is successfully launched
  
