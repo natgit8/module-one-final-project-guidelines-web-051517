@@ -30,7 +30,4 @@ EntertainmentFinder is a simple command line database application that parses AP
  
 # Running the tests
 
-1. Welcome/greet message
-2. Select opt1
-3. Select opt2
-4. Quit opt3
+http://g.recordit.co/RmJd7letTT.gif
