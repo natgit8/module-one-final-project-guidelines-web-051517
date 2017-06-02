@@ -18,12 +18,13 @@ EntertainmentFinder is a simple command line database application that parses AP
     - gem 'rest-client'
     ```
 
-3. Check that the following files are in order  
+3. Check that the following files are present and in order
+    ```
     - app/models
     - bin/run.rb
     - config/environment.rb
-    - db files
-
+    - db/migrate files
+    ```
 4. Terminal will output a greeting when the app is successfully launched
  
 # Running the tests
